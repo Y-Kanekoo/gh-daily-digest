@@ -1,0 +1,59 @@
+{
+  "data": {
+    "repositoryOwner": {
+      "repositories": {
+        "nodes": [
+          {
+            "name": "app",
+            "nameWithOwner": "demo/app",
+            "isArchived": false,
+            "isFork": false,
+            "defaultBranchRef": {
+              "name": "main"
+            }
+          },
+          {
+            "name": "notes",
+            "nameWithOwner": "demo/notes",
+            "isArchived": false,
+            "isFork": false,
+            "defaultBranchRef": {
+              "name": "main"
+            }
+          },
+          {
+            "name": "limited",
+            "nameWithOwner": "demo/limited",
+            "isArchived": false,
+            "isFork": false,
+            "defaultBranchRef": {
+              "name": "main"
+            }
+          },
+          {
+            "name": "fork",
+            "nameWithOwner": "demo/fork",
+            "isArchived": false,
+            "isFork": true,
+            "defaultBranchRef": {
+              "name": "main"
+            }
+          },
+          {
+            "name": "archive",
+            "nameWithOwner": "demo/archive",
+            "isArchived": true,
+            "isFork": false,
+            "defaultBranchRef": {
+              "name": "main"
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false,
+          "endCursor": null
+        }
+      }
+    }
+  }
+}

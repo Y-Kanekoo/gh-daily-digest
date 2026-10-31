@@ -1,0 +1,10 @@
+{
+  "check_runs": [
+    {
+      "output": {
+        "title": "実行を開始できません",
+        "summary": "The spending limit has been reached."
+      }
+    }
+  ]
+}

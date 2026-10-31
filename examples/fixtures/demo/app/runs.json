@@ -1,0 +1,12 @@
+{
+  "workflow_runs": [
+    {
+      "id": 1,
+      "status": "completed",
+      "conclusion": "success",
+      "check_suite_id": 123,
+      "html_url": "https://github.com/demo/app/actions/runs/1",
+      "updated_at": "2026-10-31T12:00:00Z"
+    }
+  ]
+}

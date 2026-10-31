@@ -1,0 +1,33 @@
+{
+  "data": {
+    "repository": {
+      "pullRequests": {
+        "nodes": [
+          {
+            "number": 12,
+            "title": "日次レポートを追加",
+            "isDraft": true,
+            "createdAt": "2026-10-01T00:00:00Z",
+            "url": "https://github.com/demo/app/pull/12",
+            "reviewDecision": "REVIEW_REQUIRED",
+            "commits": {
+              "nodes": [
+                {
+                  "commit": {
+                    "statusCheckRollup": {
+                      "state": "SUCCESS"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false,
+          "endCursor": null
+        }
+      }
+    }
+  }
+}
