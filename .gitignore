@@ -12,3 +12,9 @@ htmlcov/
 node_modules/
 .env
 .DS_Store
+
+.uv-cache/
+digests/
+
+.pytest-tmp/
+.tmp/
